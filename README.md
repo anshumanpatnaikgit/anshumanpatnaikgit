@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Anshuman</h1>
-<h3 align="center">I’m an Economist and currently pursuing my M.Sc. in Economics at Dr. B. R. Ambedkar School of Economics University, Bengaluru. I enjoy working at the intersection of strategy consulting, policy research, and startups, where I use data to solve complex problems and shape meaningful decisions.</h3>
+<h3 align="center">An economist and M.Sc. Economics candidate at Dr. B. R. Ambedkar School of Economics University, Bengaluru. My work sits at the intersection of strategy consulting, policy research, and startups — turning complex data into actionable strategies that drive meaningful impact.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anshumanpatnaikgit&label=Profile%20views&color=0e75b6&style=flat" alt="anshumanpatnaikgit" /> </p>
 
